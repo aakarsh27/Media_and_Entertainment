@@ -1,3 +1,3 @@
 # Media_and_Entertainment
 
-this is my inte
+this is my inter
