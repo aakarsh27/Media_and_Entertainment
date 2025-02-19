@@ -1,3 +1,3 @@
 # Media_and_Entertainment
 
-this is my internshi
+this is my internship
