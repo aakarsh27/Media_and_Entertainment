@@ -1,3 +1,3 @@
 # Media_and_Entertainment
 
-this is my internship pr
+this is my internship proj
