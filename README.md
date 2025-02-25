@@ -2,4 +2,4 @@
 
 this is my internship project 
 
-gotta post this without my
+gotta post this without my company
