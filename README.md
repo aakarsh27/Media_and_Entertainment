@@ -2,4 +2,4 @@
 
 this is my internship project 
 
-gotta post this without anyon
+gotta post this without anyone finding
