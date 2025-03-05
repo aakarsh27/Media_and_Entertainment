@@ -22,3 +22,7 @@ The system leverages structured data storage and reporting to support business i
 - **Talend** - For ETL (Extract, Transform, Load) operations.
 - **Data Warehouse Concepts** - Ensuring efficient data storage and reporting.
 
+## 🚀 Key Features
+- **Business Intelligence Support** - Helps media companies make informed financial and operational decisions.
+- **Structured Data Flow** - Uses **source files**, transforms them, and stores them in **target tables** for analysis.
+- **Scalability** - Designed to handle **large-scale media production data**.
