@@ -17,3 +17,8 @@ The system leverages structured data storage and reporting to support business i
   - Uses **inventory balance** to forecast **SKU production**.  
   - Provides insights on production capacity and future stock needs.
 
+## 🔧 Technologies Used
+- **SQL** - For managing structured data in the warehouse.
+- **Talend** - For ETL (Extract, Transform, Load) operations.
+- **Data Warehouse Concepts** - Ensuring efficient data storage and reporting.
+
