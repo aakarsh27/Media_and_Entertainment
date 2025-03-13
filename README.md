@@ -4,7 +4,6 @@ This project focuses on building a **Data Warehousing System** for the **Media a
 
 
 
-
 ## 📌 Project Overview
 The system leverages structured data storage and reporting to support business intelligence operations in the media and entertainment domain. It consists of three core modules:
 
